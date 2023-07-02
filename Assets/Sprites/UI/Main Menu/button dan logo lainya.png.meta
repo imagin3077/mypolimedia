@@ -1,0 +1,1033 @@
+fileFormatVersion: 2
+guid: 2902dbb183d67f945b6812dc1bb78c25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3018003779671502122
+    second: button dan logo lainya_0
+  - first:
+      213: 804008482746131834
+    second: button dan logo lainya_1
+  - first:
+      213: 8491570215564400312
+    second: button dan logo lainya_2
+  - first:
+      213: 5251233055010510344
+    second: button dan logo lainya_3
+  - first:
+      213: 7558499749383118677
+    second: button dan logo lainya_4
+  - first:
+      213: -8385888409759062453
+    second: button dan logo lainya_5
+  - first:
+      213: 7660568101625826251
+    second: button dan logo lainya_6
+  - first:
+      213: -7560982880698526697
+    second: button dan logo lainya_7
+  - first:
+      213: 4857949288742334589
+    second: button dan logo lainya_8
+  - first:
+      213: -8830104262475207849
+    second: button dan logo lainya_9
+  - first:
+      213: 4334408082361406791
+    second: button dan logo lainya_10
+  - first:
+      213: -840358791680733709
+    second: button dan logo lainya_11
+  - first:
+      213: -7540819415255197333
+    second: button dan logo lainya_12
+  - first:
+      213: -5003674706785287181
+    second: button dan logo lainya_13
+  - first:
+      213: -6783269324761315272
+    second: button dan logo lainya_14
+  - first:
+      213: -1100249264773206854
+    second: button dan logo lainya_15
+  - first:
+      213: -7619012565684193765
+    second: button dan logo lainya_16
+  - first:
+      213: -5280193399771663111
+    second: button dan logo lainya_17
+  - first:
+      213: 2200607666431615800
+    second: button dan logo lainya_18
+  - first:
+      213: 7095456092500641780
+    second: button dan logo lainya_19
+  - first:
+      213: 1606991410252710248
+    second: button dan logo lainya_20
+  - first:
+      213: 7341616824411619292
+    second: button dan logo lainya_21
+  - first:
+      213: 1727354332338411178
+    second: button dan logo lainya_22
+  - first:
+      213: -820255137513965896
+    second: button dan logo lainya_23
+  - first:
+      213: -3363825030437117907
+    second: button dan logo lainya_24
+  - first:
+      213: 8466739611822825614
+    second: button dan logo lainya_25
+  - first:
+      213: 3563605814501228543
+    second: button dan logo lainya_26
+  - first:
+      213: 6193179219117202003
+    second: button dan logo lainya_27
+  - first:
+      213: 6482647880557666760
+    second: button dan logo lainya_28
+  - first:
+      213: 7572545852435782000
+    second: button dan logo lainya_29
+  - first:
+      213: -6494000317475158231
+    second: button dan logo lainya_30
+  - first:
+      213: -4683000688671693701
+    second: button dan logo lainya_31
+  - first:
+      213: 4406971951310016173
+    second: button dan logo lainya_32
+  - first:
+      213: 5281433655544150031
+    second: button dan logo lainya_33
+  - first:
+      213: 3518844277440111522
+    second: button dan logo lainya_34
+  - first:
+      213: 7825026865288065312
+    second: button dan logo lainya_35
+  - first:
+      213: 2814728434587744626
+    second: button dan logo lainya_36
+  - first:
+      213: -4163393172731981473
+    second: button dan logo lainya_37
+  - first:
+      213: 5394493184978628235
+    second: button dan logo lainya_38
+  - first:
+      213: 3867367688426600554
+    second: button dan logo lainya_39
+  - first:
+      213: -6262764878811345052
+    second: button dan logo lainya_40
+  - first:
+      213: -1839933678410965741
+    second: button dan logo lainya_41
+  - first:
+      213: 845210331750487208
+    second: button dan logo lainya_42
+  - first:
+      213: 3082931917484784975
+    second: button dan logo lainya_43
+  - first:
+      213: -3620976279701852164
+    second: button dan logo lainya_44
+  - first:
+      213: -7994163711917564886
+    second: button dan logo lainya_45
+  - first:
+      213: -900073702613766706
+    second: button dan logo lainya_46
+  - first:
+      213: 5757732416119271194
+    second: button dan logo lainya_47
+  - first:
+      213: 1214265169077527147
+    second: button dan logo lainya_48
+  - first:
+      213: 4407580171060243940
+    second: button dan logo lainya_49
+  - first:
+      213: -8532698535388763990
+    second: button dan logo lainya_50
+  - first:
+      213: 8956223442907507096
+    second: button dan logo lainya_51
+  - first:
+      213: 1895018381608945577
+    second: button dan logo lainya_52
+  - first:
+      213: -199857661873253314
+    second: button dan logo lainya_53
+  - first:
+      213: -2902551374787654179
+    second: button dan logo lainya_54
+  - first:
+      213: 7429773371737859505
+    second: button dan logo lainya_55
+  - first:
+      213: -7872482436848766520
+    second: button dan logo lainya_56
+  - first:
+      213: 6118499628576883110
+    second: button dan logo lainya_57
+  - first:
+      213: -4727115374521231395
+    second: button dan logo lainya_58
+  - first:
+      213: 7716414343416017704
+    second: button dan logo lainya_59
+  - first:
+      213: 2396461451684375857
+    second: button dan logo lainya_60
+  - first:
+      213: 4783773162483209043
+    second: button dan logo lainya_61
+  - first:
+      213: 226355838991799706
+    second: button dan logo lainya_62
+  - first:
+      213: -4815357603463486099
+    second: button dan logo lainya_63
+  - first:
+      213: 5670907235111526455
+    second: button dan logo lainya_64
+  - first:
+      213: -5404140822399876770
+    second: button dan logo lainya_65
+  - first:
+      213: 2155212746227771599
+    second: button dan logo lainya_66
+  - first:
+      213: -7714147659147971341
+    second: button dan logo lainya_67
+  - first:
+      213: 7839460975543488025
+    second: button dan logo lainya_68
+  - first:
+      213: -3464722295602471590
+    second: button dan logo lainya_69
+  - first:
+      213: -6888371251193723439
+    second: button dan logo lainya_70
+  - first:
+      213: 2418267560520639518
+    second: button dan logo lainya_71
+  - first:
+      213: 6274084757005436823
+    second: button dan logo lainya_72
+  - first:
+      213: -8618338414010734743
+    second: button dan logo lainya_73
+  - first:
+      213: 4401448479913725821
+    second: button dan logo lainya_74
+  - first:
+      213: -3246227573983454243
+    second: button dan logo lainya_75
+  - first:
+      213: -2969165250415395384
+    second: button dan logo lainya_76
+  - first:
+      213: -5045340175432824743
+    second: button dan logo lainya_77
+  - first:
+      213: 5440337592569092929
+    second: button dan logo lainya_78
+  - first:
+      213: -761093394585797811
+    second: button dan logo lainya_79
+  - first:
+      213: -6258559666494087658
+    second: button dan logo lainya_80
+  - first:
+      213: 1650080657259632552
+    second: button dan logo lainya_81
+  - first:
+      213: -8911001772862380767
+    second: button dan logo lainya_82
+  - first:
+      213: -3940609562531895625
+    second: button dan logo lainya_83
+  - first:
+      213: -7726920484984189469
+    second: button dan logo lainya_84
+  - first:
+      213: -5546867176212992999
+    second: button dan logo lainya_85
+  - first:
+      213: 344660966708231987
+    second: button dan logo lainya_86
+  - first:
+      213: 741583920949071517
+    second: button dan logo lainya_87
+  - first:
+      213: 3814838641916894823
+    second: button dan logo lainya_88
+  - first:
+      213: 9206287974372976841
+    second: button dan logo lainya_89
+  - first:
+      213: 6416950814462884435
+    second: button dan logo lainya_90
+  - first:
+      213: 4384955727564890352
+    second: button dan logo lainya_91
+  - first:
+      213: 437502847345652018
+    second: button dan logo lainya_92
+  - first:
+      213: -4231304671548520145
+    second: button dan logo lainya_93
+  - first:
+      213: -5355218291507039361
+    second: button dan logo lainya_94
+  - first:
+      213: -5250510602275688698
+    second: button dan logo lainya_95
+  - first:
+      213: 2434108160707047608
+    second: button dan logo lainya_96
+  - first:
+      213: -6429588174956010108
+    second: button dan logo lainya_97
+  - first:
+      213: 9200424414988104325
+    second: button dan logo lainya_98
+  - first:
+      213: -8136984750934845921
+    second: button dan logo lainya_99
+  - first:
+      213: -2512328676863898127
+    second: button dan logo lainya_100
+  - first:
+      213: 4103461550456179591
+    second: button dan logo lainya_101
+  - first:
+      213: 7494792064835946410
+    second: button dan logo lainya_102
+  - first:
+      213: 2555557575150431356
+    second: button dan logo lainya_103
+  - first:
+      213: 7104229585853950671
+    second: button dan logo lainya_104
+  - first:
+      213: 2139652880497031602
+    second: button dan logo lainya_105
+  - first:
+      213: -6462303713195168920
+    second: button dan logo lainya_106
+  - first:
+      213: -3972602508881433275
+    second: button dan logo lainya_107
+  - first:
+      213: -3455620818480277929
+    second: button dan logo lainya_108
+  - first:
+      213: -3205456196964913112
+    second: button dan logo lainya_109
+  - first:
+      213: 4592679304273162419
+    second: button dan logo lainya_110
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: button dan logo lainya_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 947
+        width: 332
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d2b12927a12e920800000000000000
+      internalID: 3018003779671502122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_11
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 948
+        width: 332
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd4ef1a1227654f0800000000000000
+      internalID: -840358791680733709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_22
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 944
+        width: 282
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa653440d9bc8f710800000000000000
+      internalID: 1727354332338411178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_32
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 856
+        width: 652
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae81fcf3a5b82d30800000000000000
+      internalID: 4406971951310016173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_42
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 464
+        width: 276
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a45a70915acabb00800000000000000
+      internalID: 845210331750487208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_44
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 464
+        width: 276
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff61442245bfbdc0800000000000000
+      internalID: -3620976279701852164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_46
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 717
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd290c7cbb4283f0800000000000000
+      internalID: -900073702613766706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_47
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 746
+        width: 455
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f6a8e602397ef40800000000000000
+      internalID: 5757732416119271194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_48
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 732
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62eef1ecbfe9d010800000000000000
+      internalID: 1214265169077527147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_49
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 610
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ede91f20deda2d30800000000000000
+      internalID: 4407580171060243940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_50
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 595
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa828a6e3e3c59980800000000000000
+      internalID: -8532698535388763990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_51
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 625
+        width: 188
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899278be4c5ea4c70800000000000000
+      internalID: 8956223442907507096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_52
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 459
+        width: 263
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a703a68d257c4a10800000000000000
+      internalID: 1895018381608945577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_61
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 467
+        width: 167
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353dbd38850636240800000000000000
+      internalID: 4783773162483209043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_66
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 456
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8ec4ae29ad8ed10800000000000000
+      internalID: 2155212746227771599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_67
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 125
+        width: 11
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4f2974397d1f490800000000000000
+      internalID: -7714147659147971341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_70
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 378
+        width: 194
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5c59bd7d69760a0800000000000000
+      internalID: -6888371251193723439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_71
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 395
+        width: 437
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14eea4a8896f8120800000000000000
+      internalID: 2418267560520639518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_82
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 34
+        width: 276
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12569af9913c55480800000000000000
+      internalID: -8911001772862380767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_83
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 34
+        width: 276
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b667ca2b742059c0800000000000000
+      internalID: -3940609562531895625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_84
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 312
+        width: 450
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed04d402c674c490800000000000000
+      internalID: -7726920484984189469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_85
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 320
+        width: 367
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cec8911b19503b0800000000000000
+      internalID: -5546867176212992999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_95
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 243
+        width: 381
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f6fe5fc607227b0800000000000000
+      internalID: -5250510602275688698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_96
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 251
+        width: 241
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0b2d7c970b7c120800000000000000
+      internalID: 2434108160707047608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_103
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 165
+        width: 249
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c66ed131a277320800000000000000
+      internalID: 2555557575150431356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_104
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 139
+        width: 215
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca25a32b2b479260800000000000000
+      internalID: 7104229585853950671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button dan logo lainya_110
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 54
+        width: 232
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b07d728e797cbf30800000000000000
+      internalID: 4592679304273162419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
